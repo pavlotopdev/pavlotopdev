@@ -58,7 +58,7 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=pavlotopdev&show_icons=true&theme=github_dark&include_all_commits=true) | ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pavlotopdev&theme=github_dark&layout=compact)
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kroim&theme=dark&date_format=j%2Fn%5B%2FY%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pavlotopdev&theme=dark&date_format=j%2Fn%5B%2FY%5D" />
 </p>
 
 
